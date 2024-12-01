@@ -13,3 +13,4 @@ nacos/nacos-server:v2.3.1
 seataio/seata-server:2.0.0
 openzipkin/zipkin:2.21.7
 emqx/emqx:5.7.0
+
