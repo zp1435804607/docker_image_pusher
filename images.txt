@@ -13,3 +13,6 @@ nacos/nacos-server:v2.3.1
 seataio/seata-server:2.0.0
 openzipkin/zipkin:2.21.7
 emqx/emqx:5.7.0
+elasticsearch:8.11.1
+logstash:8.11.1
+kibana:8.11.1
