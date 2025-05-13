@@ -16,3 +16,5 @@ emqx/emqx:5.7.0
 elasticsearch:8.11.1
 logstash:8.11.1
 kibana:8.11.1
+openjdk:17-jdk-slim
+
