@@ -17,4 +17,6 @@ elasticsearch:8.11.1
 logstash:8.11.1
 kibana:8.11.1
 openjdk:17-jdk-slim
+openjdk:8-jre
+
 
