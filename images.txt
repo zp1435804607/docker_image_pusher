@@ -11,8 +11,11 @@
 #elasticsearch:8.11.1
 #logstash:8.11.1
 #kibana:8.11.1
-eclipse-temurin:8-jre
-eclipse-temurin:17-jre
-eclipse-temurin:21-jre
-
+#eclipse-temurin:8-jre
+#eclipse-temurin:17-jre
+#eclipse-temurin:21-jre
+maven:3.8.6-openjdk-8
+docker:24.0
+docker:24.0-dind
+alpine:3.18gitlab-runner-helper:x86_64-v19.0.0
 
