@@ -17,5 +17,6 @@
 maven:3.8.6-openjdk-8
 docker:24.0
 docker:24.0-dind
-alpine:3.18gitlab-runner-helper:x86_64-v19.0.0
+alpine:3.18
+gitlab-runner-helper:x86_64-v19.0.0
 
