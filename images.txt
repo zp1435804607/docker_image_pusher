@@ -1,7 +1,7 @@
-nginx
+nginx:1.27
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:8.3.0
@@ -16,7 +16,8 @@ emqx/emqx:5.7.0
 elasticsearch:8.11.1
 logstash:8.11.1
 kibana:8.11.1
-openjdk:17-jdk-slim
 openjdk:8-jre
+eclipse-temurin:17-jre
+eclipse-temurin:21-jre
 
 
